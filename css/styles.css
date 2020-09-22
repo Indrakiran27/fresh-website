@@ -1,0 +1,38 @@
+body{
+  background-color:#e8e8e8;
+}
+h1{
+  color: pink;
+
+}
+h3{
+  color:orange;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width:10%;
+}
+img:hover{
+  background-color: gold;
+}
+#heading{
+  background:black;
+}
+#first-paragraph{
+    background: violet;
+}
+.broccoli{
+  background-color:silver;
+}
+.circular{
+  border-radius: 100%;
+}
+.photo{
+  width:100%;
+}
+.circular{
+  border-radius:100%;
+}
